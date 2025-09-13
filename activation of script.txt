@@ -1,0 +1,9 @@
+For activation of script :
+
+python -m venv .venv
+
+.venv\Scripts\activate
+
+cd "Desktop\pythonProject\learning\LLMS PRACTICE"
+
+streamlit run TEXTGENNAPP.py
